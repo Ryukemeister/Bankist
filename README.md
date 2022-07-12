@@ -2,4 +2,4 @@
 
 ![Bankist image](img/Bankist.jpg)
 
-Bankist is the landing page of a fictional bank known as 'Bankist'. It is one of the projects that I've created from the Udemy course 'The Complete JavaScript Course 2022: From Zero to Expert !' by Jonas Schmedtmann. This project uses a lot of DOM techniques such as event propagation, event delegation, smooth scrolling and it also uses the Intersection Observer API in order to create a smooth scrolling experience for our end user.
+'Bankist' is a minimalist landing page for a fictional bank. This is one of the projects that I've created from the Udemy course 'The Complete JavaScript Course 2022: From Zero to Expert!'. In order to provide our end user with a smooth scrolling experience, this project uses many DOM techniques such as event propagation, event delegation, smooth scrolling and the Intersection Observer API.
