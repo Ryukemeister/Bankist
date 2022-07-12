@@ -681,7 +681,7 @@ h4 {
     display: flex;
     flex-direction: column;
     margin-left: 2vw;
-    /*border: 2px solid red;*/
+    /*  border: 2px solid red;*/
     justify-content: flex-start;
   }
 
@@ -741,7 +741,7 @@ h4 {
   }
 
   .nav.sticky {
-    display: none;
+    filter: opacity(0);
   }
 
   .modal {
