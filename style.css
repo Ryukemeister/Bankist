@@ -136,6 +136,7 @@ img {
 .nav__logo {
   height: 4.5rem;
   transition: all 0.3s;
+  margin: 0 0 0 5rem;
 }
 
 .nav__icon {
