@@ -84,7 +84,7 @@ body {
 .btn--text {
   display: inline-block;
   background: none;
-  font-size: 1.7rem;
+  font-size: 2.3rem;
   font-family: inherit;
   font-weight: 500;
   color: var(--color-primary);
@@ -92,6 +92,9 @@ body {
   border-bottom: 1px solid currentColor;
   padding-bottom: 2px;
   cursor: pointer;
+  align-self: flex-start;
+  justify-self: flex-start;
+  margin: 0 0 0 6rem;
   transition: all 0.3s;
 }
 
